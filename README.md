@@ -6,7 +6,7 @@ This repository contains Python programs for:
 - **Task 2**: Create a Personalized Greeting
 - **Task 3**: Check if a Number is Even or Odd
 - **Task 4**: Sum of Integers from 1 to 50 Using a Loop
-- **Task 4**: Calculate Factorial Using a Function 
-- **Task 4**: Using the Math Module for Calculations
+- **Task 5**: Calculate Factorial Using a Function 
+- **Task 6**: Using the Math Module for Calculations
 
 Each script is written in simple Python for educational purposes.
