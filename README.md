@@ -11,6 +11,7 @@ This repository contains Python programs for:
 - **Task 7**: Read a File and Handle Errors 
 - **Task 8**: Write and Append Data to a File
 - **Task 9**:  Create a Dictionary of Student Marks
-- **Task 10**: Demonstrate List Slicing 
+- **Task 10**: Demonstrate List Slicing
+- **Task 11**: Calculator using Tkinter 
 
 Each script is written in simple Python for educational purposes.
